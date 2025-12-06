@@ -65,7 +65,7 @@ navigation:
 misc:
 # theme: red {default} | green | blue
     theme: red
-    currentVersion: 4.8.0
+    currentVersion: 4.9.0
     gitHubUrl: https://github.com/inspircd
     latestUrl: https://github.com/inspircd/inspircd/releases/latest
     configGuideUrl: https://docs.inspircd.org/3/configuration
